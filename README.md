@@ -92,20 +92,7 @@ class ShadrakBessanh:
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🐍 &nbsp;Watch My Contributions Get Eaten
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bsh54/Bsh54/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bsh54/Bsh54/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Bsh54/Bsh54/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🤝 &nbsp;Connect With Me
 
