@@ -51,112 +51,11 @@ class ShadrakBessanh:
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🔥 &nbsp;Featured Projects
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
 
-### 📊 [Fon-Dataset-Generator](https://github.com/Bsh54/Fon-Dataset-Generator)
-Automated **bilingual dataset** generator for LLM training. Full pipeline for data collection, cleaning and formatting.
 
-![Python](https://img.shields.io/badge/Python-FF6B35?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-E63946?style=flat-square&logo=bookstack&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM_Training-F7C948?style=flat-square&logo=openai&logoColor=black)
 
-</td>
-<td width="50%" valign="top">
 
-### 🎬 [Zenith-AI](https://github.com/Bsh54/Zenith-AI)
-AI system that converts **videos and URLs** into structured narrative reports. Smart content analysis at your fingertips.
-
-![Python](https://img.shields.io/badge/Python-FF6B35?style=flat-square&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Reports-E63946?style=flat-square&logo=openai&logoColor=white)
-![Video](https://img.shields.io/badge/Video_Processing-F7C948?style=flat-square&logo=youtube&logoColor=black)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ [AI_API_DETECTOR](https://github.com/Bsh54/AI_API_DETECTOR)
-**Security tool** that detects exposed AI API keys in public GitHub repos. Proactive protection against credential leaks.
-
-![Python](https://img.shields.io/badge/Python-FF6B35?style=flat-square&logo=python&logoColor=white)
-![Security](https://img.shields.io/badge/Security-E63946?style=flat-square&logo=hackaday&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub_Scanning-F7C948?style=flat-square&logo=github&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [VoxiAI](https://github.com/Bsh54/VoxiAI)
-Turns raw videos into **viral content** with AI-styled animated subtitles. The secret weapon for content creators.
-
-![HTML](https://img.shields.io/badge/HTML5-FF6B35?style=flat-square&logo=html5&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Subtitles-E63946?style=flat-square&logo=openai&logoColor=white)
-![Video](https://img.shields.io/badge/Viral_Content-F7C948?style=flat-square&logo=tiktok&logoColor=black)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⏰ [HuggingFace-AutoPing](https://github.com/Bsh54/HuggingFace-AutoPing)
-Keeps your **Hugging Face Spaces** alive 24/7. No more cold starts — your models are always ready to go.
-
-![Python](https://img.shields.io/badge/Python-FF6B35?style=flat-square&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-E63946?style=flat-square&logo=huggingface&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-F7C948?style=flat-square&logo=githubactions&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 [100-Jours-Python](https://github.com/Bsh54/100-Jours-Python)
-**Step-by-step** Python guide from beginner to advanced concepts. 100 days to master the most in-demand language in AI.
-
-![Python](https://img.shields.io/badge/Python-FF6B35?style=flat-square&logo=python&logoColor=white)
-![Education](https://img.shields.io/badge/Education-E63946?style=flat-square&logo=udemy&logoColor=white)
-![Guide](https://img.shields.io/badge/100_Days-F7C948?style=flat-square&logo=codecademy&logoColor=black)
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🛠️ &nbsp;Tech Stack
-
-<div align="center">
-
-### 🧠 &nbsp;AI & Data Science
-![Python](https://img.shields.io/badge/Python-FF6B35?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-E63946?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-F7C948?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-1A1A2E?style=for-the-badge&logo=openai&logoColor=FF6B35)
-![LangChain](https://img.shields.io/badge/LangChain-1A1A2E?style=for-the-badge&logo=chainlink&logoColor=FF6B35)
-
-### 🌐 &nbsp;Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-FF6B35?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7C948?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E63946?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF6B35?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-1A1A2E?style=for-the-badge&logo=react&logoColor=FF6B35)
-
-### ⚙️ &nbsp;Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-FF6B35?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-1A1A2E?style=for-the-badge&logo=express&logoColor=FF6B35)
-![PHP](https://img.shields.io/badge/PHP-E63946?style=for-the-badge&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F7C948?style=for-the-badge&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-1A1A2E?style=for-the-badge&logo=github&logoColor=FF6B35)
-![VS Code](https://img.shields.io/badge/VS%20Code-FF6B35?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
