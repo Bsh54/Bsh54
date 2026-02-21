@@ -214,7 +214,7 @@ Keeps your **Hugging Face Spaces** alive 24/7. No more cold starts — your mode
 
 <!-- 🔧 REPLACE the links below with your own -->
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+<a href="[https://www.linkedin.com/in/bessanh-shadrak-744049287/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>&nbsp;
 <a href="mailto:shadrakbsh@gmail.com" target="_blank">
