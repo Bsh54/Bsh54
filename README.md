@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%A5+Turning+ideas+into+intelligent+systems;)](https://github.com/Bsh54)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%A5+Turning+ideas+into+intelligent+systems;%F0%9F%92%A1+I+build+it%2C+I+ship+it%2C+I+automate+it)](https://github.com/Bsh54)
 
   <br/>
 
@@ -45,7 +45,6 @@ class ShadrakBessanh:
 ```
 
 <br/>
-
 
 
 <br/>
@@ -164,14 +163,14 @@ Keeps your **Hugging Face Spaces** alive 24/7. No more cold starts — your mode
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bsh54&show_icons=true&count_private=true&hide_border=true&title_color=FF6B35&icon_color=F7C948&text_color=c9d1d9&bg_color=0d1117&ring_color=E63946" alt="Shadrak's GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bsh54&layout=compact&hide_border=true&title_color=FF6B35&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bsh54&show_icons=true&count_private=true&hide_border=true&title_color=FF6B35&icon_color=F7C948&text_color=c9d1d9&bg_color=0d1117&ring_color=E63946" alt="Shadrak's GitHub Stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bsh54&layout=compact&hide_border=true&title_color=FF6B35&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bsh54&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FF6B35&fire=E63946&currStreakLabel=F7C948&sideLabels=FF6B35&dates=c9d1d9" alt="Streak Stats"/>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Bsh54&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FF6B35&fire=E63946&currStreakLabel=F7C948&sideLabels=FF6B35&dates=c9d1d9" alt="Streak Stats"/>
 </div>
 
 <br/>
@@ -187,7 +186,7 @@ Keeps your **Hugging Face Spaces** alive 24/7. No more cold starts — your mode
 ## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bsh54&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-ruby.vercel.app/?username=Bsh54&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -204,7 +203,6 @@ Keeps your **Hugging Face Spaces** alive 24/7. No more cold starts — your mode
   </picture>
 </div>
 
-> ⚠️ *To enable the snake animation, add the GitHub Action workflow — see instructions below.*
 
 <br/>
 
@@ -219,12 +217,10 @@ Keeps your **Hugging Face Spaces** alive 24/7. No more cold starts — your mode
 <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>&nbsp;
-<a href="mailto:YOUR-EMAIL@email.com" target="_blank">
+<a href="mailto:shadrakbsh@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-E63946?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>&nbsp;
-<a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-  <img src="https://img.shields.io/badge/X_(Twitter)-1A1A2E?style=for-the-badge&logo=x&logoColor=FF6B35" alt="Twitter"/>
-</a>&nbsp;
+
 <a href="https://github.com/Bsh54" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-F7C948?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
 </a>
@@ -247,36 +243,4 @@ Keeps your **Hugging Face Spaces** alive 24/7. No more cold starts — your mode
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,3&height=120&section=footer"/>
 
-<!--
-╔══════════════════════════════════════════════════════════════════╗
-║  📋 SNAKE ANIMATION SETUP INSTRUCTIONS                          ║
-║                                                                  ║
-║  1. Create the repo "Bsh54" (same name as your username)        ║
-║  2. Create the folder .github/workflows/                        ║
-║  3. Add a file named snake.yml with this content:               ║
-║                                                                  ║
-║  name: Generate Snake                                            ║
-║  on:                                                             ║
-║    schedule:                                                     ║
-║      - cron: "0 */12 * * *"                                     ║
-║    workflow_dispatch:                                             ║
-║  jobs:                                                           ║
-║    build:                                                        ║
-║      runs-on: ubuntu-latest                                      ║
-║      steps:                                                      ║
-║        - uses: Platane/snk@v3                                    ║
-║          with:                                                   ║
-║            github_user_name: Bsh54                               ║
-║          env:                                                    ║
-║            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}             ║
-║        - uses: crazy-max/ghaction-github-pages@v3.1.0            ║
-║          with:                                                   ║
-║            target_branch: output                                 ║
-║            build_dir: dist                                       ║
-║          env:                                                    ║
-║            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}             ║
-║                                                                  ║
-║  4. Go to Actions and run the workflow manually                  ║
-║  5. The animation will update every 12 hours                     ║
-╚══════════════════════════════════════════════════════════════════╝
--->
+
