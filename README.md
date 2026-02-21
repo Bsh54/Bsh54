@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%A5+Turning+ideas+into+intelligent+systems;%F0%9F%9A%80+Full+Stack+%2B+AI+%3D+Limitless+Possibilities;%F0%9F%92%A1+I+build+it%2C+I+ship+it%2C+I+automate+it)](https://github.com/Bsh54)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%A5+Turning+ideas+into+intelligent+systems;)](https://github.com/Bsh54)
 
   <br/>
 
@@ -46,7 +46,7 @@ class ShadrakBessanh:
 
 <br/>
 
-> *"The best code is the one that solves a real problem."*
+
 
 <br/>
 
