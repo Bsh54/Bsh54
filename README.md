@@ -94,7 +94,7 @@ class ShadrakBessanh:
 ## 📈 &nbsp;My Contributions
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/Bsh54" alt="My Contributions" width="90%" />
+  <img src="https://contributions.shadrakbessanh.me/?username=Bsh54" alt="My Contributions" width="90%" />
 </div>
 
 
