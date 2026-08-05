@@ -69,7 +69,7 @@ class ShadrakBessanh:
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Bsh54&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FF6B35&fire=E63946&currStreakLabel=F7C948&sideLabels=FF6B35&dates=c9d1d9" alt="Streak Stats"/>
+  <img width="70%" src="https://streak.shadrakbessanh.me/?user=Bsh54&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FF6B35&fire=E63946&currStreakLabel=F7C948&sideLabels=FF6B35&dates=c9d1d9" alt="Streak Stats"/>
 </div>
 
 <br/>
@@ -99,6 +99,16 @@ class ShadrakBessanh:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bsh54/Bsh54/output/github-snake.svg" />
     <img alt="Snake animation" src="https://raw.githubusercontent.com/Bsh54/Bsh54/output/github-snake-dark.svg" width="100%" />
   </picture>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📈 &nbsp;My Contributions
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/FF6B35/Bsh54" alt="My Contributions" width="90%" />
 </div>
 
 
