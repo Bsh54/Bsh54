@@ -91,17 +91,6 @@ class ShadrakBessanh:
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-## 📈 &nbsp;My Contributions
-
-<div align="center">
-  <img src="https://contributions.shadrakbessanh.me/?username=Bsh54&v=2" alt="My Contributions" width="90%" />
-</div>
-
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🤝 &nbsp;Connect With Me
 
 <div align="center">
