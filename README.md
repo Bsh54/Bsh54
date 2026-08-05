@@ -85,7 +85,7 @@ class ShadrakBessanh:
 ## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-ruby.vercel.app/?username=Bsh54&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
+  <img src="https://trophies.shadrakbessanh.me/?username=Bsh54&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
 </div>
 
 <br/>
